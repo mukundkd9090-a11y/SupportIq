@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/32699126/README.1.md)
+[README.md](https://github.com/user-attachments/files/32699126/README.1.md)
 # 🤖 SupportIQ
 
 ### Autonomous AI Customer Support & Resolution System
